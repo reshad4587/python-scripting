@@ -1,5 +1,5 @@
 # python-scripting
 Python scripting practice projects
 
-- Convert string to SHA-256
+- Convert password to SHA-256 + salting
 - Random password generator
