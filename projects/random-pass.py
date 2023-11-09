@@ -20,3 +20,5 @@ try:
 
 except ValueError:
     print("Please enter a valid number to define the length of the password.")
+except KeyboardInterrupt:
+    print("\nExiting script!")
