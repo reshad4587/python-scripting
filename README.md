@@ -1,5 +1,10 @@
 # python-scripting
-Python scripting practice projects
+Python scripting projects for cybersecurity
 
-- Convert password to SHA-256 + salting
-- Random password generator
+## Password Converter
+- Convert password to SHA-256
+- Salting
+- Password complexity checker
+
+## Random Password generator
+- Generate random password based on length input
